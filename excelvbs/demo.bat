@@ -1,0 +1,1 @@
+cscript tq.vbs
